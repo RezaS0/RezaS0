@@ -32,7 +32,7 @@ I'm a software engineer, specializing in backend development and distributed sys
             height="54" style="vertical-align:top; margin:4px;">
     </a>
     <a href="https://go.dev/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="golang"
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="golang"
             width="54" height="54" style="vertical-align:top; margin:4px;">
     </a>
     <a href="https://dotnet.microsoft.com/">
