@@ -78,7 +78,10 @@ I'm a software engineer, specializing in backend development and distributed sys
 </p>
 
 <br/>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RezaS0&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RezaS0&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RezaS0&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <h2 align="center">💻 Open Source Projects</h2>
 
 <p align="left">
