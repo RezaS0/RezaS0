@@ -1,16 +1,84 @@
-### Hi there 👋
+![](assets/header.png)
 
-<!--
-**RezaS0/RezaS0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Lord Potter 👋</h1>
 
-Here are some ideas to get you started:
+I'm a software engineer, specializing in backend development and distributed systems. I have extensive experience in designing and implementing resilient, responsive, scalable, and maintainable systems using C#, .NET, Golang on top of cutting-edge technologies. My interests include microservices, system design, software architecture, domain driven design (DDD), event sourcing, CQRS, DevOps. I love learning, sharing, and facing challenges. Last but not least, I am also an open-source enthusiast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on software testing and ML
+- 🌱 I’m currently learning LLM
+- 👯 I’m looking to collaborate on C# & Python projects
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about Testing, C#, ML.
+
+<p align="center"> 
+ <a href="https://twitter.com/twitter">
+   <img src="https://img.shields.io/badge/%20-Twitter-%231DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+ </a>
+  <a href="https://www.youtube.com">
+   <img src="https://img.shields.io/badge/%20-YouTube-%23FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
+ </a>
+ <a href="https://github.com/">
+   <img src="https://img.shields.io/badge/%20-GitHub-black?logo=GitHub&logoColor=white&style=for-the-badge" />
+ </a>
+ <a href="https://www.linkedin.com/">
+   <img src="https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/mehdihadeli" />
+ </a>
+</p>
+
+<h2 align="center">🛠 Technologies & Skils</h2>
+
+<p align="center">
+    <a href="">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="golang" width="54"
+            height="54" style="vertical-align:top; margin:4px;">
+    </a>
+    <a href="https://go.dev/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="golang"
+            width="54" height="54" style="vertical-align:top; margin:4px;">
+    </a>
+    <a href="https://dotnet.microsoft.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="54"
+            height="54" alt="dotnet" style="vertical-align:top; margin:4px;">
+    </a>
+    <a href="">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
+            width="54" height="54" alt="postgres" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="https://www.mongodb.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="54"
+            height="54" alt="mongodb" style="vertical-align:top; margin:4px;">
+    </a>
+    <a href="">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="54"
+            height="54" alt="kubernetes" style="vertical-align:top; margin:4px;">
+    </a>
+    <a href="https://hub.docker.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="54"
+            height="54" alt="docker" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="https://azure.microsoft.com">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="54" height="54"
+            alt="azure" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="">
+        <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="54" height="54" alt="javascript"
+            style="vertical-align:top; margin:4px">
+    </a>
+    <a href="">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"
+            width="64" height="64" alt="kafka" style="vertical-align:top; margin:4px;">
+    </a>
+</p>
+
+<br/>
+
+<h2 align="center">💻 Open Source Projects</h2>
+
+<p align="left">
+  I always make sure that I find enough time for open source contribution that also helps me expand my knowledge and work with other developers and team globally. here are some of my projects:
+</p>
+
+
+
+
+
