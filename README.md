@@ -78,14 +78,7 @@ I'm a software engineer, specializing in backend development and distributed sys
 </p>
 
 <br/>
-<p align="center">
- 
- # 📊 GitHub Stats:
-  ![](https://github-readme-stats.vercel.app/api?username=RezaS0&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=RezaS0&theme=dark&hide_border=false)<br/>
-  ---
-  [![](https://visitcount.itsvg.in/api?id=RezaS0&icon=0&color=0)](https://visitcount.itsvg.in)
-</p>
+
 
 
 
