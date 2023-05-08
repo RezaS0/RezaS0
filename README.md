@@ -56,6 +56,10 @@ I'm a software engineer, specializing in backend development and distributed sys
             height="54" alt="docker" style="vertical-align:top; margin:4px">
     </a>
     <a href="https://azure.microsoft.com">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="54" height="54"
+            alt="azure" style="vertical-align:top; margin:4px">
+    </a>
+     <a href="https://azure.microsoft.com">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="54" height="54"
             alt="azure" style="vertical-align:top; margin:4px">
     </a>
