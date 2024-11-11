@@ -6,7 +6,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 With a deep foundation in **Software Architecture** and extensive expertise in **Generative AI**, I specialize in cutting-edge tech stacks and frameworks. My work spans **Large Language Models (LLMs)**, **LangChain**, **Ollama**, **CI/CD**, and advanced Python development. From designing scalable architectures to building seamless machine learning pipelines, I aim to drive innovation and efficiency in AI and Python ecosystems.
 
